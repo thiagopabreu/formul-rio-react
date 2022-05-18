@@ -1,11 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-import FormScreen from './screens/fromScreen'
+import './style.css'
+import Router from './router';
 
 function App() {
   return (
-    <div>
-      <FormScreen />
+    <div >
+      <Router />
     </div>
   );
 }

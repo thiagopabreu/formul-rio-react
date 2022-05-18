@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.register-form label {
+    text-align: right;
+    
+}
+
+.register-form {
+    width: 15em;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 10em;
+    border: solid 1px;
+    padding: 1em;
+    border-radius: 1.4em;
+}
+
+.register-form input {
+    margin: 0.4em;
+}
